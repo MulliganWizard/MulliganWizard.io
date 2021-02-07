@@ -1,2 +1,0 @@
-# MulliganWizard.io
-Project Wsite
